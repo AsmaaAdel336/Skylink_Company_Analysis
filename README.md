@@ -10,6 +10,7 @@ This project is aimed at analyzing Skylink Company’s business data to uncover 
 - [Technologies Used](#technologies-used)
 - [Data Sources](#data-sources)
 - [Analysis and Insights](#analysis-and-insights)
+- [Dashboard](#dashboard)
 - [Results](#results)
 
 
@@ -31,6 +32,11 @@ Key insights derived from this project include:
 - **Sales Trends:** Analysis of sales performance across different regions and time periods.
 - **Customer Segmentation:** Identification of high-value customers and behavior patterns.
 - **Product Performance:** Evaluation of best-performing products and market demand.
+
+## Dashboard
+
+An interactive dashboard has been created to provide a visual summary of the key insights. The dashboard allows users to explore data trends, filter by specific parameters (such as regions, product categories, and time periods), and gain actionable insights at a glance. 
+![SkyLink Dashboard](https://github.com/user-attachments/assets/ef44563f-f704-4d30-be30-7389dbf88ef8)
 
 ## Results
 The analysis provides Skylink with detailed business insights and visualizations. Interactive dashboards and comprehensive reports will help improve decision-making processes, increase customer retention, and optimize product strategies.
